@@ -1,2 +1,2 @@
 # EBDVbot
-Bot for EBDV's telegram channel.
+Bot para canal de telegram EBDV.
