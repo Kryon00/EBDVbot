@@ -3,7 +3,7 @@ from translate import Translator
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from time import sleep
 
-API_TOKEN = "6142954404:AAH-llyGimAd4-1AznsC3mpEIfahl1kr_kI"
+API_TOKEN = "------"
 
 bot = telebot.TeleBot(API_TOKEN)
 
