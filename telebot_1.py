@@ -5,6 +5,7 @@ from time import sleep
 from random import randint
 
 API_TOKEN = "--------"
+# NÃO VAZE O TOKEN NO GITHUB (denovo)!!!!!!
 
 bot = telebot.TeleBot(API_TOKEN)
 
